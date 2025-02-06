@@ -22,7 +22,7 @@
 		"@fastify/static": "^8.0.2",
 		"@mercuryworkshop/bare-mux": "^2.1.6",
 		"@mercuryworkshop/epoxy-transport": "^2.1.25",
-		"@redben10/uv2": "^3.2.10",
+		"@TitaniumNetwork/ultraviolet": "^3.2.10",
 		"fastify": "^5.0.0",
 		"ultraviolet-static": "github:titaniumnetwork-dev/Ultraviolet-Static",
 		"wisp-server-node": "^1.1.7",
